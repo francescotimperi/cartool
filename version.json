@@ -1,0 +1,10 @@
+{
+	"timestamp": 1519551664000,
+	"version": "2.1.0",
+	"eiraVersion": "2.1.0",
+	"notes": "2.1.0: Cartool release with support for EIRAv2.1.0\n2.0.1: Allowing Cartography download from FTP and FTPS.\n2.0.0: Cartool release based upon ArchiMate(r) v3 & Archi(r) v4 with support for EIRAv2.0.0\n1.0.2: Added new ISA Product License v1.3\n1.0.1: Included beta SATs for eID and eDelivery\n1.0.0: First CarTool release ",
+	"url": "https://webgate.ec.europa.eu/CITnet/stash/projects/CARTOOL/repos/cartoolrelease/raw/cartoolv2/eu.europa.ec.eira.cartool_2.1.0.v20180225-1517.jar",
+	"md5": "c27858a8fc53338fff67929071d5d9be",
+	"updateUrl": "https://webgate.ec.europa.eu/CITnet/stash/projects/CARTOOL/repos/cartoolrelease/raw/cartoolv2/version.json",
+	"warning": "-"
+}
